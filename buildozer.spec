@@ -1,10 +1,10 @@
 [app]
 
 # (str) Title of your application
-title = Mobile App 001
+title = teast_apk
 
 # (str) Package name
-package.name = mobileapp001
+package.name = tapk
 
 # (str) Package domain (needed for android/ios packaging)
 package.domain = org.wiseplat
@@ -36,7 +36,7 @@ version = 0.3
 
 # (list) Application requirements
 # comma separated e.g. requirements = sqlite3,kivy
-requirements = python3,kivy==2.0.0
+requirements = python3,kivy
 
 # (str) Custom source folders for requirements
 # Sets custom source for any requirements with recipes
